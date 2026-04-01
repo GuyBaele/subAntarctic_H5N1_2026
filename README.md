@@ -1,4 +1,6 @@
 # subAntarctic_H5N1_2026
 Supplementary Data for the manuscript 'Dispersal, adaptation and persistence of H5N1 in the sub-Antarctic and Antarctica'
 
+High pathogenicity avian influenza virus (HPAIV) H5N1 reached the sub-Antarctic and Antarctica in 2023, subsequently spreading to remote locations within this region where it had devastating impacts on seal, penguin and albatross populations. The threat to marine wildlife over this broad area exemplifies the need to understand H5N1 long-distance dispersal and evolution. We obtained 104 novel viral genomic sequences from samples that we collected at South Georgia, Kerguelen, Crozet, Prince Edward, Falklands/Malvinas Islands and the Antarctic Peninsula in a region spanning 8,000 kilometers. Using recent phylogeographic modeling advances we show that H5N1 spread encompassed numerous transmission events between distant locations, accumulating mammalian-adaptive mutations in the process. Seals are the most affected species, but we reveal that the long-distance eastward virus dispersal better aligns with the long-distance movements of large petrels and albatrosses. The risk of H5N1 endemisation, dispersal to other locations and ongoing evolution are highly concerning.
+
 https://www.biorxiv.org/content/10.64898/2026.03.20.713283v2
